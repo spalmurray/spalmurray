@@ -1,6 +1,6 @@
 ### Hey!
 
-My name is Spencer and I'm a CS student! Here's a bit about what's going on with me:
+My name is Spencer and I'm a Computer Science student at the University of Toronto! Here's a bit about what's going on with me:
 
 - 🔭 I’m currently working on getting Newt available online and also on making my card-centering tool a web front end using Flask.
 
