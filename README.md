@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey!
+
+My name is Spencer and I'm a CS student! Here's a bit about what's going on with me:
+
+- 🔭 I’m currently working on getting Newt available for us to use online and also on making my card-centering tool a web front end using Flask.
+
+- 🌱 I’m currently learning about different web technologies and how to apply them in my projects. In school, I just finished up a semester with courses about Software Design and Data Structures.
+
+- ⚡ I am currently looking for a Summer 2022 Internship!
 
 <!--
 **spalmurray/spalmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
