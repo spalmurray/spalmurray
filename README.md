@@ -2,7 +2,7 @@
 
 My name is Spencer and I'm a Computer Science student at the University of Toronto! Here's a bit about what's going on with me:
 
-- 🔭 I’m currently working on getting Newt available online and also on making my card-centering tool a web front end using Flask.
+- 🔭 I’m currently working on getting Newt available online and also on making my card-centering tool a web front end.
 
 - 🌱 I’m currently learning about different web technologies and how to apply them in my projects. In school, I just finished up a semester with courses about Software Design and Data Structures.
 
