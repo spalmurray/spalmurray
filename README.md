@@ -2,9 +2,9 @@
 
 My name is Spencer and I'm a Computer Science student at the University of Toronto! Here's a bit about what's going on with me:
 
-- 🔭 I’m currently working on getting Newt available online and also on making my card-centering tool a web front end.
+- 🔭 I’m currently working on making my card-centering tool a web ui, as the person who I created the tool for isn't up for running a Python script, which I can't blame them for. I'm also considering how I want to design my personal website.
 
-- 🌱 I’m currently learning about different web technologies and how to apply them in my projects. In school, I just finished up a semester with courses about Software Design and Data Structures.
+- 🌱 I’m currently learning about different web technologies and how to apply them in my projects. In school, I'm currently taking courses about Algorithms, Databases, UI/UX Design, and C!
 
 - ⚡ I am currently looking for a Summer 2022 Internship!
 
