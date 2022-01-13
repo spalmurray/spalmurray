@@ -2,7 +2,7 @@
 
 My name is Spencer and I'm a Computer Science student at the University of Toronto! Here's a bit about what's going on with me:
 
-- 🔭 I’m currently working on making my card-centering tool a web UI, as the person who I created the tool for isn't up for running a Python script, which I can't blame them for... I'm also considering how I want to design my personal website.
+- 🔭 I’m currently working on making my card-centering tool a web UI, as the person who I created the tool for isn't up for running a Python script, which I can't blame them for...
 
 - 🌱 At the moment, I'm learning about different web technologies and how to apply them in my projects. In school, I'm currently taking courses about Algorithms, Databases, UI/UX Design, and C!
 
