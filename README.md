@@ -6,8 +6,6 @@ My name is Spencer and I'm a Computer Science student at the University of Toron
 
 - 🌱 At the moment, I'm learning about different web technologies and how to apply them in my projects. In school, I'm currently taking courses about Algorithms, Databases, UI/UX Design, and C!
 
-- ⚡ I am currently looking for a Summer 2022 Internship!
-
 <!--
 **spalmurray/spalmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
