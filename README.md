@@ -1,10 +1,12 @@
-### Hey!
+### Hey there!
 
 My name is Spencer and I'm a Computer Science student at the University of Toronto! Here's a bit about what's going on with me:
 
-- 🔭 I'm currently working on making my card-centering tool a web UI, as the person who I created the tool for isn't up for running a Python script, which I can't blame them for...
+- 🔭 I'm currently interning at Relevant Bits where I'm working on a cool project and learning a lot!
 
-- 🌱 At the moment, I'm learning about different web technologies and how to apply them in my projects. In school, I'm currently taking courses about Databases, UI/UX Design, and C!
+- 🌱 I'm taking an algorithms course at school, which is pretty interesting.
+
+Feel free to get in touch for any reason 😄
 
 <!--
 **spalmurray/spalmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
