@@ -1,4 +1,3 @@
-Hi!
+Howdy!
 
-My name is Spencer and I'm a software engineer from Toronto!
-I enjoy making stuff and learning about pretty much anything that seems interesting.
+I'm software engineer from Canada, I have a dog named Popcorn, and I wish I could drink more coffee.
